@@ -1,0 +1,3 @@
+all the fitness functions described here are 
+BenchMark functions given in book [Nature-Inspired Optimization Algorithms]
+in Appendix with results defined there.
